@@ -106,14 +106,16 @@ export default function AboutPage() {
               <div className="md:w-2/3 p-8">
                 <h3 className="text-3xl font-bold mb-2">Prakhar</h3>
                 <p className="text-lg text-blue-400 mb-4">
-                  Machine Learning Engineer | GenAI Enthusiast
+                  Machine Learning & GenAI | Full-Stack Development | Data Structure & Algorithms
                 </p>
 
                 <p className={`${mutedClass} mb-6 text-base leading-relaxed`}>
-                  Passionate about Machine Learning, Data Science, and building
-                  intelligent systems that solve real-world problems. I enjoy
-                  creating scalable AI-powered applications with clean design
-                  and strong engineering fundamentals.
+                     I’m passionate about Machine Learning, Generative AI, and Full-Stack 
+  Development, with a strong foundation in Data Structures and Algorithms. 
+  I enjoy building end-to-end intelligent systems — from designing efficient 
+  backend logic to deploying scalable AI-powered applications with clean, 
+  user-focused interfaces. My goal is to create technology that is both 
+  technically robust and practically impactful.
                 </p>
 
                 <div className="grid grid-cols-3 sm:grid-cols-5 gap-3">
